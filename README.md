@@ -6,5 +6,5 @@ Your data needs to be a CSV file of individual samples (measurements) such that 
 <br />
 Format data like this: <br />
 <p align="center">
-  <img src="Example of csv/0.png" width="300" height="400">
+  <img src="miscellaneous/0.png" width="80%" height="auto"/>
 </p>
